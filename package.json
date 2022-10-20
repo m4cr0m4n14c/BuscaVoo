@@ -14,5 +14,9 @@
     "amadeus"
   ],
   "author": "Carlos E. Assini <carlosassini@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "amadeus": "^7.0.0",
+    "dotenv": "^16.0.3"
+  }
 }
